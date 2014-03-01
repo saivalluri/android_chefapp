@@ -20,8 +20,13 @@ Objecive: Live while protecting the outside world in this crazy half-baked adven
 Level Ideas:
 
 Location: Main Dining Hall, Kitchen, Freezer, Storage Room, Furnace, Garbage Room, and the Rooftop.
+Money: Crumbs
 Enemies: 
+Final Boss: Dinkleberry after he eats some of the salt and becomes a giant berry.
 Unlockable items for Character: Gold Chef's hat, Golden spatula, Silver Tea Spoon
 Powerups: Rapid Fire, 
-Weapons: 
+Weapons: Pepperjacker - shoots ball of peppercorn
+         Froster      - glazes enemies by shooting a beam of frosting
+         Old Flipper  - Your trusty old Spatula
+         
 
