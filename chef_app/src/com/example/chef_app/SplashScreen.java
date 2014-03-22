@@ -5,7 +5,6 @@ import android.os.Handler;
 import android.app.Activity;
 import android.content.Intent;
 import android.view.Menu;
-import android.widget.ProgressBar;
 
 public class SplashScreen extends Activity {
 	private static int DELAY_MILLI_SECONDS = 4000;
